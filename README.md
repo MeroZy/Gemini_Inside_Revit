@@ -4,7 +4,7 @@ Bring the power of **Google Gemini AI** directly into your **Autodesk Revit** wo
 ## 📥 Download
 Click the button below to download the easy setup installer:
 <p align="left">
-  <a href="https://github.com/MeroZy/Gemini-Inside-Revit/raw/main/Gemini%20Inside%20Revit%20Add-in.exe">
+  <a href="https://github.com/MeroZy/Gemini_Inside_Revit/raw/main/Gemini%20Inside%20Revit%20Add-in.exe">
     <img src="https://img.shields.io/badge/DOWNLOAD-LATEST_INSTALLER_(.EXE)-blue?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Download Gemini Inside Revit" height="50">
   </a>
 </p>

@@ -14,8 +14,8 @@ Click the button below to download the easy setup installer:
 ## 🛠️ How to Install
 1. **Download:** Click the download button above to get the `Gemini Inside Revit Add-in.exe` file.
 2. **Run the Installer:** Double-click the downloaded file and follow the quick setup wizard. It will automatically detect your Revit versions and place the add-in in the correct folders.
-3. **Launch Revit:** Open your project. You will see a new **Gemini Inside Revit** button on your ribbon toolbar.
-4. **Dock the Panel:** Click the button to open the sidebar. You can drag, pin, or dock it anywhere on your screen just like your native Properties or Project Browser palettes.
+3. **Launch Revit:** Open your project. You will see a new `EasyRVT` tab on your ribbon toolbar. Click this tab to find the `Gemini` button.
+4. **Dock the Panel:** Once opened, you can drag, pin, or dock the sidebar anywhere on your screen just like your native Properties or Project Browser palettes.
 
 ---
 
@@ -43,7 +43,7 @@ Click the button below to download the easy setup installer:
 ## 💡 Important User Notes
 * **Account Required:** You will need to log into a standard Google account inside the panel to interact with Gemini.
 * **100% Model Safe:** This tool is purely a visual communication and analysis assistant. It **never modifies or alters** your actual Revit model geometry, parameters, or project data.
-* **Compatibility:** Fully supports **Revit 2022 to 2026**.
+* **Compatibility:** Fully supports **Revit 2024, 2025, and 2026**.
 
 ---
 Developed by **Amr Khaled (MeroZy)** *Computational Architect & AEC Developer*

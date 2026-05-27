@@ -1,5 +1,6 @@
 # 🌌 Gemini Inside Revit: NanoBanana 2 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMeroZy%2FGemini_Inside_Revit&label=Visits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 Bring the power of **Google Gemini AI** directly into your **Autodesk Revit** workspace with a seamless dockable side panel. 
+
 ![Project Logo](Screenshots/UI.png)
 
 ## 📥 Download

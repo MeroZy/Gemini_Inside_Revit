@@ -45,7 +45,7 @@ Click the button below to download the easy setup installer:
 ## 💡 Important User Notes
 * **Account Required:** You will need to log into a standard Google account inside the panel to interact with Gemini.
 * **100% Model Safe:** This tool is purely a visual communication and analysis assistant. It **never modifies or alters** your actual Revit model geometry, parameters, or project data.
-* **Compatibility:** Fully supports **Revit 2024, 2025, and 2026**.
+* **Compatibility:** Fully supports **Revit 2024 to 2026**.
 
 ---
 Developed by **Amr Khaled (MeroZy)** *Computational Architect & AEC Developer*
